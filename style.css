@@ -1,0 +1,39 @@
+html {
+    font-size: 20px;
+}
+img, video{
+   max-width: 100%;
+   height: auto;
+}
+
+body{
+ background-color:#788ab6;
+   color: #2b2ec5
+}
+h1{
+    font-size: 40px;
+    font-family:Times New RomanGeorgia, 
+    font-weight:100;
+}
+
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: 
+aquamarine;
+}
